@@ -41,6 +41,7 @@ and read the [CONTRIBUTING.md](https://github.com/opencodeiiita/GoGit-5.0/blob/m
 GoGit-5.0/
 ├── .github/            # Important templates for Issues & PRs
 ├── tasks/              # (Will be added as event progresses)
+├── Contributors/       # The Hall of Fame
 ├── CONTRIBUTING.md     # Contribution rules & workflow
 └── README.md           # You're here :)
 ```
