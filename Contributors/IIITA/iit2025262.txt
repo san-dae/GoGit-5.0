@@ -1,0 +1,3 @@
+Name: Mannat Jain
+About: I am a BTech student at IIIT Allahabad with an interest in competitive programming and open-source development
+Favorite Movie: Yeh Jawaani Hai Deewani 
